@@ -1,4 +1,7 @@
-# I'm no longer working on this project, but you can still submit pull requests if you’ve found a solution to any issues
+|THE FORK FOR ARCHIVE PURPOSE ONLY <br/> THE AUTHOR ABANDONED DEVELOPMENT <br/> THE MAJOR PR'S FROM ORIGIN WILL BE SYNCED
+:-
+
+------------------------------------
 
 # Fluent theme for qBitTorrent
 Fluent dark/light themes for qBitTorrent!  
